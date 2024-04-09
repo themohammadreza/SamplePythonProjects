@@ -1,0 +1,9 @@
+Hi there
+It's mohammadreza
+we are testing write from files
+nothing important happend!
+It's added by append mode
+this text too.
+no need to say it's too :)first line from list
+second line from list
+third line from list

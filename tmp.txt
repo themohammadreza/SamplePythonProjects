@@ -1,0 +1,6 @@
+It's a sample test for File Handling in Python!
+second line
+third line
+forth line
+fifth line
+another bullshit line
